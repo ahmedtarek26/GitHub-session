@@ -17,19 +17,57 @@ First you open the repo that you want to work on , then click in 'fork' button o
 
 ![image-1](images/fork.png)
 
+Open GitHub Desktop
+
+![image-2](images/Picture6.png)
+
 Use GitHub Desktop to clone the forked repo to work on it in your local device
 
-![image-2](images/clone.png)
+![image-3](images/clone.png)
 
 
 ### 2.create a branch 
 Branches are the preferred way to create changes in the GitHub flow.
 
-![image-2](images/Picture2.png)
+![image-4](images/Picture2.png)
 
+Create a new branch to make changes away from the original repo and to create save pull request
 
+![image-5](images/branch.png)
 
 ### 3.make a change
+Make changes that you want and then open GitHub Desktop
+
+![image-6](images/change.png)
+
+If you aren't the owner of the repo , don't forget to make changes on your branch
+
+![image-7](images/change-2.png)
+
+
+
 ### 4.push it
+After commit your changes publish the branch 
+
+![image-8](images/push.png)
+
+then create pull request
+
+![image-9](images/pull-request.png)
+
+
 ### 5.delete branch
+
+if you won't to make more updates on the replater , you can delete your branch
+
+![image-10](images/delete-branch.png)
+
+
 ### Task
+Try to follow these steps above and make changes by add your name on Attendance excel sheet.
+![image-11](images/task.png)
+
+
+<p align="center">
+  <img width="450" height="450" src="images/G-1.png">
+</p>
